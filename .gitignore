@@ -35,3 +35,8 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### MY AXON SERVER ###
+/config/
+/data/
+/events/
