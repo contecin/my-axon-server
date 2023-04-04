@@ -38,5 +38,10 @@ out/
 
 ### MY AXON SERVER ###
 /config/
-/data/
+/data
 /events/
+/plugins/
+/cache/
+
+*.jar
+*.pid

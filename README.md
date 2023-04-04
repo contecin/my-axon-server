@@ -7,3 +7,4 @@ Axon server on-premise
    - data/
    - events/
 2. copiar o arquivo **axonserver.yml** para o diretório **config/**
+3. ou executar o comando shell: `./create-axonserver.sh` na raiz do projeto **my-axon-server**
